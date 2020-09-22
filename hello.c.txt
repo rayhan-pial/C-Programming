@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+main()
+{
+int a;
+scanf("%d", &a);
+printf(a);
+if(a%2==0)
+print("This is even number");
+else
+print("This is odd");
+}
+
